@@ -1,0 +1,10 @@
+MSE Train Set XGB Regression: 0.8482
+RMSE Train Set XGB Regression: 0.921
+MAE Train Set XGB Regression: 0.6708
+MSE Test Set XGB Regression: 0.8232
+RMSE Test Set XGB Regression: 0.9073
+MAE Test Set XGB Regression: 0.6598
+Accuracy: Final mean: 77.951%, Final standard deviation: 1.452%
+Accuracies from each of the number folds using kfold: [0.79121591 0.79476408 0.7884601  0.77396237 0.80054134 0.7534312
+ 0.76537256 0.76726221 0.78885571 0.77120129]
+Variance of kfold accuracies:0.00021092692334372717

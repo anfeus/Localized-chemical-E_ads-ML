@@ -1,0 +1,10 @@
+MSE Train Set Linear Regression: 0.568
+RMSE Train Set Linear Regression: 0.754
+MAE Train Set Linear Regression: 0.561
+MSE Test Set Linear Regression: 0.563
+RMSE Test Set Linear Regression: 0.75
+MAE Test Set Linear Regression: 0.559
+Accuracy: Final mean: 85.451%, Final standard deviation: 1.243%
+Accuracies from each of the number folds using kfold: [0.86683544 0.84082413 0.85451164 0.85025038 0.83547063 0.85411848
+ 0.88130312 0.85354671 0.86145431 0.84682673]
+Variance of kfold accuracies:0.00015460700729375316

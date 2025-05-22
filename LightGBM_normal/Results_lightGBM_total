@@ -1,0 +1,10 @@
+MSE Train Set LightG Regression: 0.104
+RMSE Train Set LightG Regression: 0.322
+MAE Train Set LightG Regression: 0.17
+MSE Test Set LightG Regression: 0.279
+RMSE Test Set LightG Regression: 0.528
+MAE Test Set LightG Regression: 0.299
+Accuracy: Final mean: 90.413%, Final standard deviation: 0.883%
+Accuracies from each of the number folds using kfold: [0.90485729 0.91742281 0.90280957 0.90292662 0.89056494 0.89994266
+ 0.9179991  0.89049031 0.90764845 0.90667508]
+Variance of kfold accuracies:7.79214068523452e-05

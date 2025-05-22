@@ -1,0 +1,10 @@
+MSE Train Set CatB Regression: 0.116
+RMSE Train Set CatB Regression: 0.341
+MAE Train Set CatB Regression: 0.166
+MSE Test Set CatB Regression: 0.279
+RMSE Test Set CatB Regression: 0.529
+MAE Test Set CatB Regression: 0.28
+Accuracy: Final mean: 90.788%, Final standard deviation: 1.032%
+Accuracies from each of the number folds using kfold: [0.90795456 0.92528953 0.90755508 0.90440217 0.8936463  0.90176243
+ 0.92526571 0.89465178 0.90533569 0.91292571]
+Variance of kfold accuracies:0.00010645025951319805
